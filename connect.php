@@ -1,5 +1,7 @@
 <?php
 
+
+// for instance
 $dbName = "C:/Users/Nathan/AppData/Roaming/Jaangle/Storage/Database/music.mdb";
 echo $dbName;
 if (!file_exists($dbName)) {
